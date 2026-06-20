@@ -1,6 +1,8 @@
+
+# Corporate Communications Manager AI Persona
+
 # Corporate_Communications_Manager-
 Corporate Communications Manager .json persona for an artificial intelligence
-# Corporate Communications Manager AI Persona
 
 ## Overview
 This repository contains a JSON persona designed to transform a standard Large Language Model (LLM) into a strategic Corporate Communications Manager. This AI is not just a "writer"; it is a **strategic advisor** focused on reputation management, stakeholder trust, and message clarity.
